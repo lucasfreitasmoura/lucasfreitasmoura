@@ -7,7 +7,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: MBA Data Engineer and improve development
+:outbox_tray: 2022 Goals: Expirience Data Enginieer and Python
 
 ## About me
   
