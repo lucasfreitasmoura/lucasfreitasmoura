@@ -3,11 +3,11 @@
 
 :computer: I'm computer engineer!
 
-:house_with_garden: I’m from Brazil, 26 years.
+:house_with_garden: I’m from Brazil, 30 years.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: Expirience Data Enginieer and Python
+:outbox_tray: 2026 Goals: Certified Pega System SSA and Certified basics Cloud's 
 
 ## About me
   
